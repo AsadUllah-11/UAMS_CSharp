@@ -1,0 +1,7 @@
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\bin\Debug\selfAssessment.exe.config
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\bin\Debug\selfAssessment.exe
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\bin\Debug\selfAssessment.pdb
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\obj\Debug\selfAssessment.csproj.AssemblyReference.cache
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\obj\Debug\selfAssessment.csproj.CoreCompileInputs.cache
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\obj\Debug\selfAssessment.exe
+E:\second\Object Oriented Programming\WeekSix\lab\selfAssessment\selfAssessment\selfAssessment\obj\Debug\selfAssessment.pdb
